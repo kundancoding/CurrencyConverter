@@ -1,0 +1,1 @@
+This extension will convert the currency being used on the website to the one selected in the popup of the extension.
